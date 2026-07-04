@@ -1,0 +1,16 @@
+supplier_id,supplier_name,supplier_rating,contract_type
+SUP001,Alpha Industrial Supplies,4.1,Annual
+SUP002,Global Procurement Ltd,4.9,Annual
+SUP003,Prime Source Traders,4.6,Quarterly
+SUP004,Vertex Supply Co.,4.4,Quarterly
+SUP005,BlueRock Manufacturing,3.7,Annual
+SUP006,Evergreen Wholesale,3.7,Annual
+SUP007,Nexus Components,3.6,Annual
+SUP008,Titan Distributors,4.8,Spot Purchase
+SUP009,Apex Procurement,4.4,Spot Purchase
+SUP010,Sigma Global Supply,4.6,Spot Purchase
+SUP011,Pioneer Industries,3.5,Quarterly
+SUP012,Unity Wholesale,5.0,Spot Purchase
+SUP013,Horizon Supply Chain,4.7,Quarterly
+SUP014,Nova Traders,3.8,Quarterly
+SUP015,Summit Industrial,3.8,Spot Purchase
