@@ -248,37 +248,37 @@ The project includes **40+ SQL business queries**, covering:
 
 ## Executive Dashboard
 
-![Executive Dashboard](screenshots\Executieve_page.png)
+![Executive Dashboard](screenshots/Executive_page.png)
 
 ---
 
 ## Supplier Performance Dashboard
 
-![Supplier Dashboard](screenshots\Supplier_Performance_page.png)
+![Supplier Dashboard](screenshots/Supplier_Performance_page.png)
 
 ---
 
 ## Inventory Dashboard
 
-![Inventory Dashboard](screenshots\Inventory_page.png)
+![Inventory Dashboard](screenshots/Inventory_page.png)
 
 ---
 
 ## Delivery & Logistics Dashboard
 
-![Delivery Dashboard](screenshots\Delivery_Logistics_page.png)
+![Delivery Dashboard](screenshots/Delivery_Logistics_page.png)
 
 ---
 
 ## Products & Category Analytics
 
-![Products Dashboard](screenshots\Product_Category_page.png)
+![Products Dashboard](screenshots/Product_Category_page.png)
 
 ---
 
 ## Payment Analytics
 
-![Payment Dashboard](screenshots\Payment_page.png)
+![Payment Dashboard](screenshots/Payment_page.png)
 
 ---
 
